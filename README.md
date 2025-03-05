@@ -1,2 +1,1 @@
-I used Linked list to create a phone book that adds deletes and prints phone book
- 
+This is a program that takes user input to fill a phonebook and creates the data as a linked list. It then prints the information.This program was made with a linked list from scratch, and does not include any APIs, other than the scanner class. For this project I worked with Rafael and Kennedi. 
